@@ -1,0 +1,18 @@
+{
+  "name": "suheyl",
+  "version": "1.0.0",
+  "description": "Mesaj Kayıt Oluşturma",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Süheyl S.",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+    "nodemon": "^2.0.15",
+    "socket.io": "^4.1.3",
+    "socketio-file-upload": "^0.7.3"
+  }
+}

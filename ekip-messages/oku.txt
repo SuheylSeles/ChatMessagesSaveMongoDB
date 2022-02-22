@@ -1,0 +1,4 @@
+UYGULAMA AYAĞA KALDIRMA KOMUTU
+----> cd ekip-messages 
+----> npm i
+----> nodemon server.js
